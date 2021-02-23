@@ -68,6 +68,7 @@ With the sport growing in popularity and the ability to enjoy the outdoors year-
 - HTML
 - CSS
 - JavaScript
+- jQuery
 - Third Party APIs 
 - Web APIs
 
